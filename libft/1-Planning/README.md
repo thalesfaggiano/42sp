@@ -1,4 +1,4 @@
-#Planning
+# Planning
 
 Here I'll organize all necessary information about libft project
 
